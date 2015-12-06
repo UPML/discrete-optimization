@@ -1,0 +1,4 @@
+i = 1810
+1 to 9 to 8 to 10 to 16 to 2 to 6 to 11 to 4 to 18 to 7 to 17 to 5 to 14 to 3 to 13 to 12 to 15 to 1
+Cost: 1077.9353394639247
+Time: 2005894

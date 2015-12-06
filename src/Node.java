@@ -1,4 +1,9 @@
+import javafx.util.Pair;
+
 import java.util.ArrayList;
+import java.util.HashMap;
+
+import static java.lang.Math.min;
 
 /**
  * A single node in the tree of paths
@@ -95,9 +100,21 @@ public class Node {
 		double value = 0;
 
 		if(active_set.length == 2)
-			return getPathCost() + distances[active_set[0]][active_set[1]];
+			return getPathCost() + distances[active_set[0] - 1][active_set[1] - 1];
 
-		for(int location : active_set) {
+        double minEdge = 1e9;
+        for (int anActive_set : active_set) {
+            minEdge = min(minEdge, distances[getPath()[getPath().length - 2 ]][anActive_set]);
+        }
+        value += minEdge;
+        minEdge = 1e9;
+        for (int anActive_set : active_set) {
+            minEdge = min(minEdge, distances[getPath()[0]][anActive_set]);
+        }
+        value += minEdge;
+        value += boruvkaMST();
+        // old
+		/*for(int location : active_set) {
 			double low1 = Double.MAX_VALUE;
 			double low2 = Double.MAX_VALUE;
 
@@ -116,16 +133,74 @@ public class Node {
 			}
 
 			value += low1 + low2;
-		}
+		}*/
 
-		return getParentCost() + (value / 2) * 1.025;
+		return (getParentCost() + value) * 1.15;
 	}
 
-	/**
-	 * Get the cost of the entire path up to this point
-	 *
-	 * @return Cost of path including return
-	 */
+    /**
+     *
+     * @return Cost of MST on active_set vertexes
+     */
+
+    private double boruvkaMST(){
+        Double cost = 0.0;
+        HashMap<Integer,Integer> comp = new HashMap<>();
+        int c = 0;
+        for(int a : active_set){
+            comp.put(a, c);
+            c++;
+        }
+        int numberComp = active_set.length;
+        while(numberComp > 1){
+            ArrayList<Pair<Integer, Integer>> minEdges = new ArrayList<>();
+            ArrayList<Double> minDist = new ArrayList<>();
+            for(int i = 0; i < active_set.length; ++i){
+                minDist.add(i, 1e9);
+                minEdges.add(i, new Pair<Integer, Integer>(i, -1));
+            }
+            for(int i = 0; i < active_set.length; ++i){
+                for(int j = 0; j < active_set.length; ++j){
+                    if(!comp.get(active_set[i]).equals(comp.get(active_set[j]))){
+                        double distance = distances[active_set[i] - 1][active_set[j] - 1];
+                         if(distance < minDist.get(comp.get(active_set[i]))){
+                             minDist.set(comp.get(active_set[i]), distance);
+                             minEdges.set(comp.get(active_set[i]), new Pair<Integer, Integer>(active_set[i],active_set[j]));
+                         }
+                        if(distance < minDist.get(comp.get(active_set[j]))){
+                            minDist.set(comp.get(active_set[j]), distance);
+                            minEdges.set(comp.get(active_set[j]), new Pair<Integer, Integer>(active_set[i],active_set[j]));
+                        }
+
+                    }
+
+                }
+            }
+            int minEdgesNumber = 0;
+            for(int i = 0; i < active_set.length; ++i){
+                if(minEdges.get(i).getValue() != -1 && !comp.get(minEdges.get(i).getKey()).equals(comp.get(minEdges.get(i).getValue()))){
+                     cost += minDist.get(i);
+                     int old = comp.get(minEdges.get(i).getValue());
+                     int newK = comp.get(minEdges.get(i).getKey());
+                     for(Integer a : comp.keySet()){
+                         if(comp.get(a) ==old){
+                             comp.replace(a, old, newK);
+                         }
+                     }
+                    minEdgesNumber++;
+
+                }
+            }
+            numberComp -= minEdgesNumber;
+        }
+        return cost;
+    }
+    /**
+     * Get the cost of the entire path up to this point
+     *
+     * @return Cost of path including return
+     */
+
 	public double getPathCost() {
 		return distances[0][index] + getParentCost();
 	}

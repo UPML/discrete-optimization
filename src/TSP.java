@@ -3,8 +3,8 @@ import java.util.ArrayList;
 
 public class TSP {
     public static void main(String[] args) throws IOException {
-        File file = new File("26out30.txt");
-        for (Integer i = 2600; i < 2610; i+= 10) {
+        File file = new File("18out15t.txt");
+        for (Integer i = 1810; i <= 1810; i+= 10) {
             PrintWriter out = new PrintWriter(new BufferedWriter(new FileWriter(file.getName(), true)));
             out.println("i = " + i.toString());
             if(i == 1210){

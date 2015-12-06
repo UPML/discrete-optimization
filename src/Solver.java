@@ -100,11 +100,11 @@ public class Solver {
 				if(cost < best_cost) {
 					best_cost = cost;
 					best_path = child.getPath();
-                //    for(int k = 0; k < best_path.length; ++k){
-                  //      System.out.print(best_path[k] + " ");
+                   // for(int k = 0; k < best_path.length; ++k){
+                     //   System.out.print(best_path[k] + " ");
                     //}
 
-                    //             System.out.println(" " + Double.valueOf(cost).toString());
+                      //          System.out.println(" " + Double.valueOf(cost).toString());
                 }
 			}
             else if(child.getLowerBound() <= best_cost) {

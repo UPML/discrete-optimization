@@ -1,0 +1,1121 @@
+i = 200
+1 to 2 to 1
+Cost: 450.05777406906327
+Time: 1327908
+i = 210
+1 to 2 to 1
+Cost: 342.0175434096912
+Time: 52862
+i = 220
+1 to 2 to 1
+Cost: 355.5727773606973
+Time: 46301
+i = 230
+1 to 2 to 1
+Cost: 188.36135484753765
+Time: 36869
+i = 240
+1 to 2 to 1
+Cost: 113.718951806636
+Time: 45934
+i = 250
+1 to 2 to 1
+Cost: 159.43650773897426
+Time: 38846
+i = 260
+1 to 2 to 1
+Cost: 183.2266356182965
+Time: 31525
+i = 270
+1 to 2 to 1
+Cost: 375.4996671103718
+Time: 45319
+i = 280
+1 to 2 to 1
+Cost: 152.38110119040354
+Time: 45473
+i = 290
+1 to 2 to 1
+Cost: 100.73728207570423
+Time: 45989
+i = 300
+1 to 2 to 3 to 1
+Cost: 328.90893989085464
+Time: 79591
+i = 310
+1 to 2 to 3 to 1
+Cost: 239.6080744855883
+Time: 62760
+i = 320
+1 to 2 to 3 to 1
+Cost: 374.0155311506661
+Time: 60642
+i = 330
+1 to 2 to 3 to 1
+Cost: 253.3560025880305
+Time: 58311
+i = 340
+1 to 2 to 3 to 1
+Cost: 307.1540887322559
+Time: 43842
+i = 350
+1 to 2 to 3 to 1
+Cost: 365.84166522183546
+Time: 55290
+i = 360
+1 to 2 to 3 to 1
+Cost: 208.09856552578725
+Time: 64130
+i = 370
+1 to 2 to 3 to 1
+Cost: 275.05266210581806
+Time: 55338
+i = 380
+1 to 2 to 3 to 1
+Cost: 346.53392703417916
+Time: 58096
+i = 390
+1 to 2 to 3 to 1
+Cost: 150.75392493848858
+Time: 65926
+i = 400
+1 to 4 to 2 to 3 to 1
+Cost: 488.064308382745
+Time: 104953
+i = 410
+1 to 2 to 3 to 4 to 1
+Cost: 321.3374294579511
+Time: 91372
+i = 420
+1 to 4 to 2 to 3 to 1
+Cost: 334.24904596439467
+Time: 144895
+i = 430
+1 to 2 to 3 to 4 to 1
+Cost: 416.634442941383
+Time: 104684
+i = 440
+1 to 2 to 4 to 3 to 1
+Cost: 340.0235294874594
+Time: 119594
+i = 450
+1 to 2 to 3 to 4 to 1
+Cost: 380.274308957292
+Time: 84048
+i = 460
+1 to 2 to 4 to 3 to 1
+Cost: 307.82607613942696
+Time: 66002
+i = 470
+1 to 3 to 4 to 2 to 1
+Cost: 454.4061553771932
+Time: 90058
+i = 480
+1 to 2 to 4 to 3 to 1
+Cost: 469.31147226774056
+Time: 95529
+i = 490
+1 to 2 to 4 to 3 to 1
+Cost: 451.9475323635151
+Time: 100755
+i = 500
+1 to 2 to 5 to 4 to 3 to 1
+Cost: 363.7786430551315
+Time: 192268
+i = 510
+1 to 2 to 5 to 3 to 4 to 1
+Cost: 524.1994350871912
+Time: 139683
+i = 520
+1 to 4 to 3 to 2 to 5 to 1
+Cost: 505.1333269791975
+Time: 208023
+i = 530
+1 to 2 to 3 to 5 to 4 to 1
+Cost: 438.19438063662784
+Time: 157193
+i = 540
+1 to 2 to 3 to 5 to 4 to 1
+Cost: 418.70664973059723
+Time: 112123
+i = 550
+1 to 2 to 3 to 5 to 4 to 1
+Cost: 332.2868327979934
+Time: 116802
+i = 560
+1 to 2 to 3 to 4 to 5 to 1
+Cost: 459.61978413964755
+Time: 78533
+i = 570
+1 to 2 to 3 to 4 to 5 to 1
+Cost: 490.73224965514385
+Time: 97261
+i = 580
+1 to 4 to 2 to 5 to 3 to 1
+Cost: 443.7275887094378
+Time: 112497
+i = 590
+1 to 2 to 3 to 4 to 5 to 1
+Cost: 419.3585088413268
+Time: 109876
+i = 600
+1 to 3 to 2 to 6 to 5 to 4 to 1
+Cost: 452.828261236666
+Time: 187647
+i = 610
+1 to 4 to 6 to 5 to 3 to 2 to 1
+Cost: 431.2812675910724
+Time: 366593
+i = 620
+1 to 2 to 6 to 3 to 4 to 5 to 1
+Cost: 491.8112827322716
+Time: 212495
+i = 630
+1 to 2 to 3 to 5 to 4 to 6 to 1
+Cost: 374.5272247054958
+Time: 197390
+i = 640
+1 to 2 to 3 to 4 to 6 to 5 to 1
+Cost: 260.71329181210643
+Time: 309255
+i = 650
+1 to 4 to 2 to 5 to 3 to 6 to 1
+Cost: 498.6567824282536
+Time: 641971
+i = 660
+1 to 2 to 3 to 6 to 4 to 5 to 1
+Cost: 507.20485658290033
+Time: 164380
+i = 670
+1 to 2 to 4 to 3 to 5 to 6 to 1
+Cost: 367.4932089359272
+Time: 128176
+i = 680
+1 to 2 to 3 to 4 to 5 to 6 to 1
+Cost: 414.0831360753813
+Time: 121654
+i = 690
+1 to 2 to 3 to 5 to 6 to 4 to 1
+Cost: 454.23607118325856
+Time: 100053
+i = 700
+1 to 2 to 6 to 7 to 4 to 3 to 5 to 1
+Cost: 520.4005350123684
+Time: 205466
+i = 710
+1 to 5 to 4 to 2 to 7 to 3 to 6 to 1
+Cost: 494.59149449106167
+Time: 240073
+i = 720
+1 to 5 to 3 to 2 to 4 to 7 to 6 to 1
+Cost: 553.8742441012389
+Time: 285688
+i = 730
+1 to 4 to 5 to 6 to 2 to 3 to 7 to 1
+Cost: 601.0258426874348
+Time: 295601
+i = 740
+1 to 6 to 2 to 7 to 5 to 4 to 3 to 1
+Cost: 559.5012194604033
+Time: 203420
+i = 750
+1 to 6 to 5 to 7 to 4 to 3 to 2 to 1
+Cost: 412.0326704352916
+Time: 353050
+i = 760
+1 to 4 to 6 to 7 to 5 to 2 to 3 to 1
+Cost: 466.78865243460604
+Time: 164061
+i = 770
+1 to 2 to 6 to 5 to 4 to 7 to 3 to 1
+Cost: 387.0812326358884
+Time: 255546
+i = 780
+1 to 3 to 5 to 4 to 6 to 7 to 2 to 1
+Cost: 373.147103762706
+Time: 315373
+i = 790
+1 to 3 to 2 to 5 to 6 to 4 to 7 to 1
+Cost: 443.3075380704042
+Time: 192038
+i = 800
+1 to 2 to 6 to 8 to 5 to 7 to 3 to 4 to 1
+Cost: 587.7729060861188
+Time: 382602
+i = 810
+1 to 4 to 7 to 2 to 3 to 5 to 8 to 6 to 1
+Cost: 465.80970455042126
+Time: 319538
+i = 820
+1 to 5 to 6 to 3 to 7 to 4 to 2 to 8 to 1
+Cost: 552.4846707553124
+Time: 326007
+i = 830
+1 to 8 to 4 to 3 to 6 to 7 to 5 to 2 to 1
+Cost: 582.7601073393263
+Time: 305551
+i = 840
+1 to 2 to 6 to 8 to 7 to 3 to 4 to 5 to 1
+Cost: 590.3574289302562
+Time: 368511
+i = 850
+1 to 2 to 7 to 3 to 4 to 5 to 6 to 8 to 1
+Cost: 498.5288539218597
+Time: 205146
+i = 860
+1 to 2 to 3 to 8 to 7 to 4 to 5 to 6 to 1
+Cost: 572.5917731403306
+Time: 250192
+i = 870
+1 to 2 to 6 to 4 to 8 to 7 to 5 to 3 to 1
+Cost: 508.8613617042487
+Time: 743189
+i = 880
+1 to 4 to 8 to 2 to 7 to 3 to 6 to 5 to 1
+Cost: 651.432986103926
+Time: 352647
+i = 890
+1 to 4 to 6 to 8 to 5 to 3 to 2 to 7 to 1
+Cost: 452.9640940878902
+Time: 196927
+i = 900
+1 to 3 to 9 to 5 to 6 to 7 to 2 to 4 to 8 to 1
+Cost: 689.442376954463
+Time: 263664
+i = 910
+1 to 4 to 2 to 8 to 9 to 3 to 5 to 7 to 6 to 1
+Cost: 548.7391950736347
+Time: 242966
+i = 920
+1 to 3 to 8 to 2 to 7 to 9 to 5 to 4 to 6 to 1
+Cost: 617.6026431351145
+Time: 236205
+i = 930
+1 to 3 to 7 to 8 to 4 to 2 to 5 to 6 to 9 to 1
+Cost: 529.2152339418028
+Time: 338772
+i = 940
+1 to 2 to 3 to 6 to 7 to 4 to 5 to 8 to 9 to 1
+Cost: 593.9400529902974
+Time: 104943
+i = 950
+1 to 4 to 5 to 7 to 9 to 2 to 3 to 8 to 6 to 1
+Cost: 599.6298456294603
+Time: 703620
+i = 960
+1 to 2 to 6 to 5 to 4 to 3 to 8 to 7 to 9 to 1
+Cost: 533.6093905781063
+Time: 199034
+i = 970
+1 to 4 to 5 to 8 to 6 to 3 to 2 to 7 to 9 to 1
+Cost: 631.927343846928
+Time: 140197
+i = 980
+1 to 2 to 6 to 3 to 5 to 7 to 9 to 8 to 4 to 1
+Cost: 459.7967135999775
+Time: 168073
+i = 990
+1 to 5 to 7 to 9 to 6 to 2 to 4 to 3 to 8 to 1
+Cost: 650.8917380729905
+Time: 218090
+i = 1000
+1 to 4 to 10 to 3 to 6 to 5 to 7 to 8 to 2 to 9 to 1
+Cost: 675.2768366344158
+Time: 1622031
+i = 1010
+1 to 3 to 4 to 2 to 10 to 5 to 6 to 8 to 7 to 9 to 1
+Cost: 626.842825898284
+Time: 2414477
+i = 1020
+1 to 2 to 5 to 4 to 8 to 10 to 6 to 9 to 3 to 7 to 1
+Cost: 618.1908163768558
+Time: 280377
+i = 1030
+1 to 4 to 8 to 5 to 3 to 2 to 9 to 7 to 6 to 10 to 1
+Cost: 562.9758352250956
+Time: 288965
+i = 1040
+1 to 6 to 9 to 7 to 3 to 5 to 8 to 2 to 4 to 10 to 1
+Cost: 584.149243142419
+Time: 513787
+i = 1050
+1 to 9 to 4 to 2 to 10 to 6 to 8 to 5 to 7 to 3 to 1
+Cost: 593.4604057040982
+Time: 532833
+i = 1060
+1 to 4 to 9 to 2 to 10 to 7 to 5 to 6 to 3 to 8 to 1
+Cost: 663.3611971290186
+Time: 1489576
+i = 1070
+1 to 7 to 8 to 2 to 9 to 3 to 10 to 6 to 4 to 5 to 1
+Cost: 567.9727178645556
+Time: 1228104
+i = 1080
+1 to 4 to 3 to 5 to 2 to 6 to 10 to 8 to 7 to 9 to 1
+Cost: 620.124452752766
+Time: 2475390
+i = 1090
+1 to 10 to 9 to 4 to 8 to 6 to 2 to 3 to 5 to 7 to 1
+Cost: 565.0619109087066
+Time: 1240815
+i = 1100
+1 to 4 to 11 to 7 to 10 to 6 to 5 to 8 to 2 to 9 to 3 to 1
+Cost: 768.9736651075617
+Time: 1696126
+i = 1110
+1 to 10 to 2 to 5 to 7 to 6 to 3 to 9 to 8 to 11 to 4 to 1
+Cost: 740.3366765698636
+Time: 2349224
+i = 1120
+1 to 5 to 6 to 2 to 4 to 3 to 7 to 11 to 9 to 8 to 10 to 1
+Cost: 620.1843767234711
+Time: 10506101
+i = 1130
+1 to 11 to 4 to 8 to 6 to 2 to 10 to 3 to 7 to 9 to 5 to 1
+Cost: 628.4205907798346
+Time: 593215
+i = 1140
+1 to 2 to 8 to 3 to 11 to 6 to 9 to 7 to 4 to 5 to 10 to 1
+Cost: 579.9487609299796
+Time: 557913
+i = 1150
+1 to 10 to 5 to 4 to 6 to 11 to 9 to 3 to 7 to 8 to 2 to 1
+Cost: 753.7809019547057
+Time: 2508849
+i = 1160
+1 to 2 to 3 to 4 to 10 to 5 to 6 to 7 to 11 to 8 to 9 to 1
+Cost: 568.7140404508793
+Time: 361939
+i = 1170
+1 to 3 to 2 to 4 to 11 to 6 to 9 to 10 to 7 to 8 to 5 to 1
+Cost: 547.384069470491
+Time: 1288690
+i = 1180
+1 to 4 to 3 to 10 to 2 to 6 to 9 to 8 to 5 to 11 to 7 to 1
+Cost: 583.2978134563181
+Time: 458210
+i = 1190
+1 to 9 to 3 to 7 to 4 to 2 to 10 to 11 to 5 to 6 to 8 to 1
+Cost: 625.0558048754192
+Time: 976882
+i = 1200
+1 to 8 to 2 to 10 to 11 to 3 to 5 to 7 to 9 to 4 to 6 to 12 to 1
+Cost: 548.2678303771312
+Time: 2216633
+i = 1210
+1 to 2 to 7 to 8 to 10 to 3 to 4 to 5 to 12 to 6 to 9 to 11 to 1
+Cost: 589.5339057280092
+Time: 1480877
+i = 1220
+1 to 4 to 6 to 9 to 2 to 12 to 3 to 5 to 7 to 11 to 8 to 10 to 1
+Cost: 728.9132778197647
+Time: 9526392
+i = 1230
+1 to 7 to 2 to 5 to 4 to 6 to 9 to 11 to 12 to 3 to 8 to 10 to 1
+Cost: 706.8159420517275
+Time: 945279
+i = 1240
+1 to 8 to 12 to 2 to 3 to 11 to 9 to 7 to 5 to 10 to 4 to 6 to 1
+Cost: 604.5993967680147
+Time: 4287714
+i = 1250
+1 to 12 to 6 to 9 to 10 to 8 to 5 to 3 to 7 to 4 to 2 to 11 to 1
+Cost: 619.9331334767202
+Time: 3127369
+i = 1260
+1 to 2 to 3 to 4 to 8 to 12 to 7 to 11 to 9 to 6 to 10 to 5 to 1
+Cost: 639.8991690711862
+Time: 1003893
+i = 1270
+1 to 3 to 9 to 10 to 6 to 4 to 11 to 12 to 2 to 7 to 5 to 8 to 1
+Cost: 645.6701242787568
+Time: 32130688
+i = 1280
+1 to 8 to 5 to 3 to 7 to 4 to 11 to 6 to 2 to 12 to 9 to 10 to 1
+Cost: 555.177510997575
+Time: 3870910
+i = 1290
+1 to 7 to 11 to 12 to 4 to 5 to 9 to 3 to 6 to 2 to 8 to 10 to 1
+Cost: 669.2710788771216
+Time: 3895837
+i = 1300
+1 to 2 to 5 to 8 to 9 to 3 to 6 to 13 to 11 to 12 to 4 to 7 to 10 to 1
+Cost: 655.8003185145117
+Time: 17415430
+i = 1310
+1 to 6 to 8 to 5 to 10 to 11 to 7 to 4 to 3 to 13 to 12 to 2 to 9 to 1
+Cost: 591.2186395879518
+Time: 3786168
+i = 1320
+1 to 4 to 11 to 13 to 3 to 2 to 8 to 9 to 7 to 5 to 10 to 12 to 6 to 1
+Cost: 814.8381804413226
+Time: 3270656
+i = 1330
+1 to 8 to 2 to 11 to 13 to 5 to 10 to 7 to 12 to 6 to 3 to 9 to 4 to 1
+Cost: 606.7844094881646
+Time: 4508778
+i = 1340
+1 to 4 to 13 to 11 to 5 to 3 to 2 to 9 to 6 to 8 to 12 to 10 to 7 to 1
+Cost: 630.3226836764068
+Time: 2302665
+i = 1350
+1 to 3 to 9 to 10 to 5 to 2 to 13 to 8 to 7 to 11 to 6 to 4 to 12 to 1
+Cost: 568.0277874678513
+Time: 30408799
+i = 1360
+1 to 6 to 7 to 13 to 9 to 2 to 10 to 12 to 11 to 3 to 4 to 5 to 8 to 1
+Cost: 723.7081332549419
+Time: 6620668
+i = 1370
+1 to 13 to 2 to 5 to 4 to 9 to 11 to 3 to 10 to 6 to 12 to 8 to 7 to 1
+Cost: 656.7181659226743
+Time: 2353299
+i = 1380
+1 to 11 to 2 to 5 to 8 to 7 to 13 to 10 to 3 to 12 to 9 to 4 to 6 to 1
+Cost: 652.7384299882659
+Time: 11641240
+i = 1390
+1 to 6 to 4 to 5 to 7 to 9 to 3 to 10 to 12 to 13 to 8 to 2 to 11 to 1
+Cost: 637.0421281664185
+Time: 3968102
+i = 1400
+1 to 4 to 2 to 3 to 13 to 8 to 11 to 6 to 7 to 5 to 9 to 12 to 10 to 14 to 1
+Cost: 796.9154580937532
+Time: 3830920
+i = 1410
+1 to 3 to 11 to 8 to 12 to 6 to 5 to 14 to 10 to 13 to 7 to 9 to 2 to 4 to 1
+Cost: 774.9249594314851
+Time: 3196745
+i = 1420
+1 to 9 to 8 to 3 to 2 to 7 to 11 to 12 to 4 to 5 to 14 to 13 to 10 to 6 to 1
+Cost: 694.2358577828692
+Time: 5001772
+i = 1430
+1 to 8 to 6 to 10 to 13 to 3 to 2 to 14 to 4 to 5 to 11 to 9 to 7 to 12 to 1
+Cost: 588.104161354636
+Time: 5684824
+i = 1440
+1 to 4 to 5 to 9 to 6 to 3 to 10 to 12 to 14 to 11 to 13 to 2 to 7 to 8 to 1
+Cost: 603.7441371530546
+Time: 9410956
+i = 1450
+1 to 7 to 5 to 14 to 11 to 8 to 10 to 12 to 3 to 9 to 4 to 13 to 2 to 6 to 1
+Cost: 781.233808285736
+Time: 29652874
+i = 1460
+1 to 6 to 3 to 2 to 14 to 8 to 9 to 12 to 10 to 4 to 7 to 5 to 11 to 13 to 1
+Cost: 653.3022710443191
+Time: 6289118
+i = 1470
+1 to 2 to 10 to 5 to 11 to 4 to 12 to 9 to 7 to 3 to 14 to 6 to 13 to 8 to 1
+Cost: 539.8526047127002
+Time: 27047362
+i = 1480
+1 to 4 to 3 to 14 to 2 to 7 to 5 to 8 to 10 to 11 to 13 to 9 to 12 to 6 to 1
+Cost: 782.7189060159005
+Time: 9398086
+i = 1490
+1 to 12 to 13 to 8 to 2 to 11 to 4 to 14 to 10 to 3 to 7 to 5 to 9 to 6 to 1
+Cost: 726.805616539679
+Time: 19203929
+i = 1500
+1 to 11 to 12 to 4 to 14 to 8 to 3 to 7 to 13 to 2 to 5 to 9 to 15 to 10 to 6 to 1
+Cost: 664.6293320827792
+Time: 17770532
+i = 1510
+1 to 15 to 6 to 11 to 4 to 14 to 5 to 3 to 9 to 7 to 8 to 2 to 13 to 12 to 10 to 1
+Cost: 740.4278838399566
+Time: 47578592
+i = 1520
+1 to 12 to 3 to 10 to 14 to 6 to 13 to 5 to 11 to 8 to 15 to 2 to 9 to 4 to 7 to 1
+Cost: 757.5995736435056
+Time: 25478588
+i = 1530
+1 to 14 to 2 to 12 to 8 to 7 to 9 to 15 to 3 to 10 to 13 to 6 to 11 to 4 to 5 to 1
+Cost: 762.829815622848
+Time: 100650792
+i = 1540
+1 to 2 to 8 to 6 to 4 to 15 to 12 to 11 to 14 to 7 to 9 to 13 to 10 to 3 to 5 to 1
+Cost: 654.8224248427326
+Time: 59425052
+i = 1550
+1 to 4 to 5 to 11 to 10 to 14 to 15 to 2 to 6 to 3 to 13 to 12 to 7 to 8 to 9 to 1
+Cost: 756.6451083657585
+Time: 18381755
+i = 1560
+1 to 7 to 5 to 4 to 6 to 8 to 9 to 3 to 14 to 2 to 13 to 11 to 12 to 15 to 10 to 1
+Cost: 746.7883748007932
+Time: 24330684
+i = 1570
+1 to 7 to 13 to 6 to 5 to 9 to 2 to 3 to 4 to 14 to 8 to 12 to 10 to 15 to 11 to 1
+Cost: 717.2900626271742
+Time: 7420937
+i = 1580
+1 to 10 to 12 to 8 to 6 to 11 to 3 to 4 to 15 to 14 to 9 to 13 to 7 to 5 to 2 to 1
+Cost: 676.9751713460605
+Time: 8774840
+i = 1590
+1 to 2 to 6 to 13 to 9 to 5 to 10 to 14 to 3 to 7 to 4 to 8 to 11 to 15 to 12 to 1
+Cost: 686.0605948820042
+Time: 7015161
+i = 1600
+1 to 15 to 7 to 3 to 5 to 8 to 10 to 13 to 16 to 12 to 2 to 4 to 11 to 9 to 6 to 14 to 1
+Cost: 742.7280574826395
+Time: 42815484
+i = 1610
+1 to 7 to 3 to 12 to 14 to 2 to 5 to 9 to 11 to 6 to 15 to 4 to 13 to 16 to 10 to 8 to 1
+Cost: 743.2072891538671
+Time: 72279509
+i = 1620
+1 to 2 to 5 to 3 to 8 to 9 to 16 to 4 to 10 to 11 to 15 to 12 to 13 to 7 to 6 to 14 to 1
+Cost: 650.671508748013
+Time: 4248544
+i = 1630
+1 to 15 to 5 to 11 to 10 to 9 to 16 to 13 to 14 to 8 to 6 to 2 to 7 to 12 to 3 to 4 to 1
+Cost: 777.9825919057721
+Time: 25466375
+i = 1640
+1 to 7 to 2 to 10 to 8 to 14 to 5 to 9 to 11 to 6 to 15 to 13 to 16 to 12 to 4 to 3 to 1
+Cost: 660.6966386662981
+Time: 106021290
+i = 1650
+1 to 6 to 10 to 12 to 3 to 16 to 2 to 8 to 9 to 7 to 15 to 5 to 4 to 14 to 13 to 11 to 1
+Cost: 720.5964609210146
+Time: 75425175
+i = 1660
+1 to 8 to 15 to 3 to 6 to 4 to 9 to 12 to 16 to 7 to 14 to 5 to 10 to 13 to 2 to 11 to 1
+Cost: 596.2147139714906
+Time: 51732578
+i = 1670
+1 to 7 to 8 to 10 to 15 to 2 to 4 to 6 to 11 to 14 to 3 to 13 to 16 to 5 to 12 to 9 to 1
+Cost: 822.3313046253012
+Time: 178089208
+i = 1680
+1 to 16 to 3 to 6 to 2 to 13 to 14 to 7 to 9 to 11 to 8 to 5 to 10 to 12 to 4 to 15 to 1
+Cost: 724.2648179823289
+Time: 43596049
+i = 1690
+1 to 2 to 5 to 6 to 16 to 4 to 7 to 14 to 3 to 9 to 12 to 15 to 11 to 13 to 8 to 10 to 1
+Cost: 724.1675104689665
+Time: 27516604
+i = 1700
+1 to 5 to 7 to 13 to 4 to 2 to 6 to 11 to 14 to 9 to 3 to 16 to 12 to 17 to 15 to 10 to 8 to 1
+Cost: 720.0945246720804
+Time: 186193332
+i = 1710
+1 to 11 to 13 to 6 to 9 to 10 to 16 to 2 to 7 to 12 to 4 to 3 to 14 to 17 to 8 to 5 to 15 to 1
+Cost: 635.0807285615336
+Time: 44103904
+i = 1720
+1 to 4 to 11 to 2 to 5 to 17 to 12 to 14 to 6 to 3 to 7 to 9 to 15 to 13 to 10 to 8 to 16 to 1
+Cost: 730.3782739273962
+Time: 36993808
+i = 1730
+1 to 10 to 12 to 2 to 9 to 4 to 15 to 8 to 7 to 5 to 6 to 17 to 3 to 11 to 16 to 13 to 14 to 1
+Cost: 742.989275306349
+Time: 124946119
+i = 1740
+1 to 8 to 3 to 2 to 6 to 11 to 13 to 16 to 10 to 12 to 17 to 9 to 15 to 14 to 4 to 5 to 7 to 1
+Cost: 725.1967716347335
+Time: 66068218
+i = 1750
+1 to 13 to 8 to 6 to 10 to 9 to 14 to 17 to 12 to 15 to 5 to 4 to 11 to 7 to 2 to 3 to 16 to 1
+Cost: 668.1032220473713
+Time: 114672575
+i = 1760
+1 to 4 to 10 to 13 to 12 to 6 to 2 to 11 to 8 to 7 to 15 to 17 to 9 to 5 to 16 to 3 to 14 to 1
+Cost: 760.5689739924763
+Time: 80435896
+i = 1770
+1 to 12 to 7 to 14 to 11 to 10 to 2 to 3 to 4 to 5 to 13 to 16 to 8 to 9 to 6 to 17 to 15 to 1
+Cost: 715.6182145565641
+Time: 30383560
+i = 1780
+1 to 6 to 7 to 2 to 16 to 9 to 17 to 5 to 15 to 11 to 4 to 12 to 8 to 3 to 10 to 13 to 14 to 1
+Cost: 659.42517323745
+Time: 38065321
+i = 1790
+1 to 9 to 13 to 8 to 17 to 15 to 10 to 3 to 12 to 14 to 6 to 2 to 11 to 7 to 16 to 5 to 4 to 1
+Cost: 623.5252655242989
+Time: 320786841
+i = 1800
+1 to 4 to 12 to 13 to 7 to 3 to 16 to 8 to 10 to 9 to 5 to 11 to 2 to 6 to 18 to 14 to 15 to 17 to 1
+Cost: 650.9249764985015
+Time: 312557967
+i = 1810
+1 to 5 to 9 to 8 to 2 to 6 to 16 to 10 to 4 to 11 to 12 to 13 to 15 to 3 to 14 to 7 to 18 to 17 to 1
+Cost: 865.2303404667922
+Time: 1867660931
+i = 1820
+1 to 6 to 5 to 8 to 9 to 2 to 17 to 14 to 15 to 10 to 4 to 7 to 18 to 12 to 16 to 13 to 3 to 11 to 1
+Cost: 719.7803869970803
+Time: 245413456
+i = 1830
+1 to 4 to 5 to 2 to 17 to 12 to 6 to 11 to 18 to 15 to 14 to 7 to 3 to 13 to 10 to 8 to 16 to 9 to 1
+Cost: 698.5188456950696
+Time: 104706497
+i = 1840
+1 to 8 to 6 to 3 to 18 to 13 to 9 to 11 to 5 to 15 to 16 to 17 to 7 to 12 to 4 to 10 to 2 to 14 to 1
+Cost: 751.2593381425676
+Time: 46329842
+i = 1850
+1 to 6 to 10 to 8 to 2 to 3 to 9 to 13 to 11 to 18 to 12 to 17 to 5 to 4 to 15 to 7 to 16 to 14 to 1
+Cost: 715.0022112402896
+Time: 129333993
+i = 1860
+1 to 9 to 6 to 5 to 12 to 13 to 3 to 18 to 11 to 8 to 10 to 7 to 15 to 2 to 4 to 17 to 16 to 14 to 1
+Cost: 734.807621275513
+Time: 675592061
+i = 1870
+1 to 2 to 7 to 13 to 11 to 8 to 18 to 3 to 14 to 6 to 15 to 17 to 5 to 16 to 10 to 12 to 9 to 4 to 1
+Cost: 694.6085030728557
+Time: 570519998
+i = 1880
+1 to 5 to 13 to 9 to 7 to 3 to 2 to 8 to 14 to 16 to 18 to 4 to 17 to 11 to 15 to 6 to 12 to 10 to 1
+Cost: 755.0025587897632
+Time: 69065795
+i = 1890
+1 to 9 to 10 to 18 to 4 to 15 to 11 to 3 to 5 to 17 to 7 to 13 to 16 to 8 to 6 to 12 to 2 to 14 to 1
+Cost: 659.2999002469907
+Time: 247816305
+i = 1900
+1 to 15 to 10 to 18 to 6 to 12 to 14 to 2 to 19 to 9 to 17 to 4 to 5 to 16 to 3 to 11 to 7 to 13 to 8 to 1
+Cost: 835.8958890474094
+Time: 311041806
+i = 1910
+1 to 5 to 17 to 10 to 11 to 13 to 4 to 12 to 6 to 9 to 19 to 7 to 14 to 2 to 18 to 15 to 3 to 8 to 16 to 1
+Cost: 786.3677168688904
+Time: 372318547
+i = 1920
+1 to 4 to 14 to 13 to 12 to 16 to 11 to 10 to 15 to 6 to 5 to 18 to 2 to 17 to 9 to 3 to 7 to 19 to 8 to 1
+Cost: 758.0291179213342
+Time: 48097087
+i = 1930
+1 to 4 to 6 to 11 to 3 to 10 to 14 to 13 to 8 to 16 to 2 to 19 to 18 to 5 to 17 to 15 to 7 to 9 to 12 to 1
+Cost: 739.7462124566455
+Time: 685779449
+i = 1940
+1 to 5 to 12 to 3 to 17 to 13 to 19 to 6 to 9 to 10 to 14 to 2 to 8 to 18 to 4 to 15 to 11 to 16 to 7 to 1
+Cost: 869.8691540217386
+Time: 1234194759
+i = 1950
+1 to 10 to 8 to 2 to 16 to 18 to 7 to 13 to 3 to 6 to 12 to 4 to 17 to 19 to 5 to 9 to 14 to 11 to 15 to 1
+Cost: 883.2819308400657
+Time: 867874198
+i = 1960
+1 to 16 to 11 to 10 to 17 to 9 to 6 to 12 to 19 to 8 to 18 to 15 to 5 to 13 to 14 to 7 to 3 to 4 to 2 to 1
+Cost: 750.9998316082879
+Time: 830508763
+i = 1970
+1 to 6 to 9 to 2 to 17 to 4 to 11 to 3 to 16 to 14 to 19 to 12 to 5 to 18 to 7 to 13 to 10 to 8 to 15 to 1
+Cost: 677.1593036194771
+Time: 30795626
+i = 1980
+1 to 3 to 5 to 14 to 18 to 7 to 13 to 10 to 17 to 2 to 4 to 11 to 16 to 8 to 9 to 15 to 12 to 6 to 19 to 1
+Cost: 839.1063407852789
+Time: 1856067871
+i = 1990
+1 to 7 to 8 to 17 to 4 to 6 to 14 to 19 to 13 to 10 to 11 to 5 to 3 to 18 to 9 to 16 to 2 to 15 to 12 to 1
+Cost: 662.2120549082993
+Time: 72583571
+i = 2000
+1 to 9 to 5 to 13 to 4 to 18 to 14 to 11 to 12 to 2 to 17 to 19 to 7 to 8 to 15 to 20 to 3 to 16 to 10 to 6 to 1
+Cost: 813.1058883648554
+Time: 3308906281
+i = 2010
+1 to 5 to 13 to 3 to 11 to 10 to 7 to 2 to 17 to 6 to 14 to 15 to 16 to 9 to 20 to 12 to 18 to 4 to 8 to 19 to 1
+Cost: 853.6089934221968
+Time: 3958140050
+i = 2020
+1 to 3 to 18 to 6 to 14 to 2 to 16 to 4 to 10 to 9 to 17 to 19 to 11 to 12 to 13 to 20 to 7 to 8 to 15 to 5 to 1
+Cost: 720.3233910047489
+Time: 4225881409
+i = 2030
+1 to 3 to 2 to 18 to 16 to 12 to 10 to 14 to 8 to 7 to 15 to 5 to 4 to 17 to 20 to 11 to 13 to 19 to 9 to 6 to 1
+Cost: 817.9734129486815
+Time: 1362305306
+i = 2040
+1 to 3 to 6 to 8 to 12 to 14 to 19 to 5 to 7 to 9 to 2 to 10 to 11 to 18 to 20 to 15 to 4 to 13 to 17 to 16 to 1
+Cost: 706.3250710236008
+Time: 250061376
+i = 2050
+1 to 6 to 10 to 3 to 15 to 18 to 9 to 2 to 8 to 5 to 12 to 20 to 17 to 14 to 4 to 7 to 19 to 16 to 11 to 13 to 1
+Cost: 685.1772121956649
+Time: 246755273
+i = 2060
+1 to 5 to 14 to 13 to 19 to 17 to 15 to 16 to 20 to 11 to 7 to 3 to 4 to 10 to 12 to 8 to 18 to 2 to 6 to 9 to 1
+Cost: 599.905419969087
+Time: 655707181
+i = 2070
+1 to 8 to 18 to 20 to 6 to 15 to 16 to 19 to 12 to 13 to 10 to 14 to 17 to 3 to 4 to 5 to 7 to 11 to 2 to 9 to 1
+Cost: 667.3873947597531
+Time: 2264360693
+i = 2080
+1 to 11 to 18 to 5 to 7 to 2 to 8 to 12 to 16 to 6 to 4 to 17 to 13 to 19 to 20 to 3 to 15 to 9 to 10 to 14 to 1
+Cost: 766.0463097857069
+Time: 130382150
+i = 2090
+1 to 18 to 2 to 5 to 11 to 17 to 7 to 3 to 19 to 4 to 13 to 14 to 12 to 10 to 20 to 6 to 8 to 9 to 15 to 16 to 1
+Cost: 711.9532120886025
+Time: 142622786
+i = 2100
+1 to 3 to 7 to 10 to 11 to 5 to 20 to 8 to 21 to 4 to 17 to 6 to 15 to 2 to 16 to 12 to 14 to 13 to 9 to 19 to 18 to 1
+Cost: 790.6224965528852
+Time: 52246220824
+i = 2110
+1 to 19 to 9 to 13 to 5 to 11 to 4 to 6 to 8 to 3 to 14 to 7 to 16 to 17 to 15 to 18 to 10 to 2 to 12 to 21 to 20 to 1
+Cost: 684.9126609716217
+Time: 759760027
+i = 2120
+1 to 15 to 17 to 5 to 7 to 19 to 16 to 8 to 14 to 13 to 6 to 11 to 10 to 12 to 21 to 4 to 20 to 3 to 9 to 2 to 18 to 1
+Cost: 927.5683328240381
+Time: 482427498
+i = 2130
+1 to 14 to 3 to 2 to 20 to 5 to 11 to 13 to 10 to 19 to 16 to 15 to 7 to 8 to 17 to 12 to 21 to 6 to 4 to 9 to 18 to 1
+Cost: 689.587794016933
+Time: 2614332563
+i = 2140
+1 to 13 to 15 to 11 to 5 to 2 to 14 to 7 to 17 to 19 to 8 to 6 to 20 to 3 to 9 to 10 to 12 to 4 to 21 to 16 to 18 to 1
+Cost: 850.5539801858247
+Time: 462132985
+i = 2150
+1 to 11 to 4 to 17 to 9 to 5 to 20 to 12 to 14 to 2 to 7 to 21 to 16 to 3 to 13 to 8 to 18 to 6 to 19 to 10 to 15 to 1
+Cost: 817.2774562047399
+Time: 2202998598
+i = 2160
+1 to 8 to 2 to 4 to 12 to 17 to 20 to 3 to 19 to 15 to 11 to 5 to 7 to 18 to 6 to 13 to 9 to 14 to 10 to 16 to 21 to 1
+Cost: 792.2048204613525
+Time: 14981468623
+i = 2170
+1 to 21 to 15 to 7 to 13 to 8 to 18 to 11 to 14 to 16 to 4 to 10 to 5 to 19 to 2 to 20 to 17 to 3 to 12 to 9 to 6 to 1
+Cost: 849.1272046977139
+Time: 265605720
+i = 2180
+1 to 9 to 13 to 20 to 10 to 7 to 8 to 5 to 3 to 19 to 12 to 16 to 15 to 14 to 2 to 4 to 17 to 6 to 21 to 11 to 18 to 1
+Cost: 930.8894177132325
+Time: 5003539359
+i = 2190
+1 to 2 to 12 to 15 to 21 to 18 to 3 to 8 to 16 to 20 to 9 to 10 to 14 to 4 to 6 to 13 to 5 to 7 to 17 to 19 to 11 to 1
+Cost: 785.9711613061208
+Time: 2419025870
+i = 2200
+1 to 12 to 3 to 10 to 22 to 17 to 15 to 14 to 4 to 11 to 19 to 7 to 21 to 20 to 18 to 6 to 16 to 2 to 9 to 13 to 5 to 8 to 1
+Cost: 923.3239105438577
+Time: 37771794255
+i = 2210
+1 to 7 to 5 to 8 to 2 to 17 to 16 to 20 to 6 to 4 to 22 to 15 to 10 to 3 to 9 to 13 to 21 to 12 to 18 to 19 to 11 to 14 to 1
+Cost: 738.1946456847451
+Time: 539705316
+i = 2220
+1 to 12 to 18 to 6 to 10 to 9 to 22 to 15 to 3 to 19 to 16 to 4 to 14 to 21 to 5 to 8 to 7 to 2 to 17 to 11 to 20 to 13 to 1
+Cost: 680.9876871342957
+Time: 2467582064
+i = 2230
+1 to 5 to 14 to 12 to 2 to 16 to 21 to 3 to 20 to 10 to 11 to 17 to 22 to 13 to 19 to 6 to 4 to 9 to 7 to 8 to 15 to 18 to 1
+Cost: 819.3536372014115
+Time: 1515279014
+i = 2240
+1 to 15 to 2 to 7 to 16 to 3 to 20 to 10 to 11 to 17 to 9 to 19 to 21 to 18 to 12 to 14 to 22 to 5 to 8 to 4 to 6 to 13 to 1
+Cost: 912.9719579908707
+Time: 12433791960
+i = 2250
+1 to 6 to 17 to 4 to 22 to 14 to 5 to 20 to 18 to 2 to 9 to 11 to 12 to 13 to 19 to 8 to 21 to 15 to 10 to 3 to 16 to 7 to 1
+Cost: 821.1703358131165
+Time: 5919738854
+i = 2260
+1 to 13 to 14 to 3 to 22 to 18 to 10 to 15 to 21 to 19 to 4 to 16 to 6 to 9 to 12 to 5 to 20 to 8 to 11 to 2 to 7 to 17 to 1
+Cost: 799.9703735432138
+Time: 1207479139
+i = 2270
+1 to 11 to 8 to 9 to 18 to 7 to 10 to 16 to 5 to 22 to 13 to 3 to 4 to 15 to 6 to 19 to 12 to 21 to 2 to 14 to 17 to 20 to 1
+Cost: 800.9258638230167
+Time: 3661699433
+i = 2280
+1 to 2 to 21 to 3 to 8 to 12 to 7 to 18 to 11 to 5 to 20 to 15 to 22 to 17 to 4 to 14 to 13 to 6 to 9 to 10 to 19 to 16 to 1
+Cost: 748.4383706832506
+Time: 214994031
+i = 2290
+1 to 17 to 18 to 8 to 2 to 7 to 16 to 13 to 21 to 22 to 20 to 11 to 12 to 19 to 6 to 5 to 4 to 15 to 14 to 10 to 3 to 9 to 1
+Cost: 789.5641256959691
+Time: 20440109030
+i = 2300
+1 to 22 to 4 to 14 to 10 to 7 to 17 to 15 to 13 to 6 to 21 to 5 to 11 to 19 to 20 to 9 to 18 to 16 to 23 to 3 to 2 to 12 to 8 to 1
+Cost: 764.9461309780457
+Time: 82375394608
+i = 2310
+1 to 6 to 8 to 22 to 13 to 21 to 16 to 3 to 15 to 12 to 11 to 5 to 20 to 18 to 4 to 17 to 2 to 19 to 7 to 23 to 14 to 9 to 10 to 1
+Cost: 840.3663969705925
+Time: 30291421040
+i = 2320
+1 to 7 to 10 to 21 to 17 to 8 to 13 to 14 to 16 to 19 to 5 to 20 to 4 to 23 to 12 to 18 to 6 to 2 to 9 to 15 to 11 to 3 to 22 to 1
+Cost: 877.7830037497718
+Time: 5533609785
+i = 2330
+1 to 8 to 14 to 13 to 20 to 11 to 4 to 22 to 9 to 6 to 19 to 2 to 10 to 5 to 3 to 17 to 15 to 23 to 12 to 21 to 16 to 7 to 18 to 1
+Cost: 831.7295198088816
+Time: 332823681
+i = 2340
+1 to 21 to 16 to 3 to 18 to 22 to 13 to 8 to 4 to 23 to 19 to 12 to 5 to 14 to 6 to 2 to 10 to 20 to 15 to 17 to 9 to 11 to 7 to 1
+Cost: 778.3092318923284
+Time: 778136294
+i = 2350
+1 to 4 to 16 to 7 to 9 to 20 to 8 to 5 to 6 to 19 to 15 to 23 to 13 to 11 to 10 to 22 to 18 to 3 to 14 to 17 to 2 to 12 to 21 to 1
+Cost: 716.2351011878343
+Time: 166253095
+i = 2360
+1 to 17 to 21 to 4 to 22 to 9 to 16 to 12 to 11 to 10 to 6 to 15 to 7 to 18 to 5 to 2 to 13 to 19 to 20 to 8 to 3 to 14 to 23 to 1
+Cost: 891.9987872033134
+Time: 8717364012
+i = 2370
+1 to 15 to 4 to 3 to 6 to 8 to 18 to 14 to 2 to 22 to 17 to 20 to 19 to 5 to 12 to 7 to 9 to 23 to 11 to 16 to 10 to 21 to 13 to 1
+Cost: 837.0403951807068
+Time: 11756623852
+i = 2380
+1 to 4 to 14 to 7 to 21 to 20 to 8 to 2 to 17 to 6 to 18 to 16 to 12 to 3 to 10 to 15 to 9 to 11 to 13 to 19 to 23 to 22 to 5 to 1
+Cost: 849.0994367825127
+Time: 27677128104
+i = 2390
+1 to 9 to 3 to 12 to 2 to 16 to 21 to 19 to 8 to 14 to 17 to 22 to 6 to 5 to 15 to 4 to 11 to 18 to 23 to 7 to 13 to 20 to 10 to 1
+Cost: 783.5385593402649
+Time: 87354058859
+i = 2400
+1 to 7 to 11 to 8 to 19 to 24 to 3 to 16 to 20 to 17 to 9 to 14 to 10 to 18 to 5 to 13 to 15 to 6 to 22 to 2 to 12 to 4 to 23 to 21 to 1
+Cost: 866.3912769534757
+Time: 509396984
+i = 2410
+1 to 7 to 4 to 15 to 16 to 10 to 18 to 21 to 17 to 6 to 13 to 24 to 5 to 8 to 22 to 11 to 14 to 2 to 19 to 23 to 12 to 20 to 3 to 9 to 1
+Cost: 781.1700770132293
+Time: 42967740433
+i = 2420
+1 to 13 to 15 to 8 to 5 to 10 to 7 to 14 to 22 to 16 to 23 to 4 to 12 to 24 to 11 to 9 to 6 to 17 to 18 to 3 to 2 to 19 to 21 to 20 to 1
+Cost: 818.6376767679819
+Time: 3885624584
+i = 2430
+1 to 12 to 20 to 17 to 14 to 22 to 2 to 16 to 11 to 6 to 18 to 7 to 3 to 24 to 13 to 15 to 8 to 4 to 9 to 19 to 5 to 10 to 23 to 21 to 1
+Cost: 866.9564531568673
+Time: 66313311680
+i = 2440
+1 to 7 to 10 to 12 to 19 to 9 to 15 to 14 to 17 to 23 to 16 to 13 to 24 to 8 to 18 to 22 to 11 to 6 to 4 to 2 to 3 to 21 to 5 to 20 to 1
+Cost: 921.2211205791274
+Time: 11257324792
+i = 2450
+1 to 11 to 7 to 8 to 20 to 22 to 23 to 4 to 6 to 17 to 9 to 5 to 12 to 24 to 16 to 19 to 18 to 13 to 21 to 3 to 2 to 10 to 15 to 14 to 1
+Cost: 722.1085845462627
+Time: 45687046033
+i = 2460
+1 to 4 to 8 to 19 to 6 to 16 to 2 to 10 to 3 to 22 to 14 to 15 to 7 to 5 to 11 to 23 to 13 to 9 to 12 to 18 to 20 to 21 to 17 to 24 to 1
+Cost: 832.1404924287366
+Time: 448060287
+i = 2470
+1 to 12 to 4 to 18 to 10 to 5 to 24 to 9 to 17 to 23 to 16 to 15 to 11 to 20 to 14 to 6 to 19 to 3 to 8 to 13 to 7 to 2 to 22 to 21 to 1
+Cost: 866.6552654797707
+Time: 15141374969
+i = 2480
+1 to 8 to 22 to 20 to 21 to 12 to 14 to 3 to 11 to 16 to 24 to 13 to 19 to 10 to 9 to 6 to 23 to 7 to 17 to 18 to 2 to 5 to 15 to 4 to 1
+Cost: 780.7635709199737
+Time: 3621435140
+i = 2490
+1 to 16 to 19 to 6 to 10 to 18 to 22 to 13 to 23 to 11 to 8 to 9 to 17 to 24 to 4 to 12 to 2 to 20 to 5 to 15 to 21 to 3 to 14 to 7 to 1
+Cost: 846.624645774087
+Time: 24328835842
+i = 2500
+1 to 20 to 23 to 24 to 21 to 22 to 18 to 5 to 17 to 2 to 16 to 14 to 12 to 11 to 6 to 9 to 19 to 7 to 25 to 4 to 10 to 15 to 3 to 13 to 8 to 1
+Cost: 796.164517176897
+Time: 6558360535
+i = 2510
+1 to 21 to 7 to 6 to 3 to 17 to 4 to 10 to 2 to 8 to 19 to 23 to 9 to 16 to 18 to 20 to 13 to 12 to 15 to 22 to 24 to 25 to 11 to 14 to 5 to 1
+Cost: 840.6334071218129
+Time: 12983862114
+i = 2520
+1 to 20 to 19 to 5 to 3 to 2 to 24 to 8 to 13 to 14 to 6 to 16 to 15 to 25 to 22 to 17 to 12 to 10 to 11 to 18 to 4 to 21 to 9 to 23 to 7 to 1
+Cost: 754.8194732356953
+Time: 21986839788
+i = 2530
+1 to 11 to 9 to 10 to 24 to 12 to 19 to 17 to 5 to 7 to 20 to 23 to 2 to 18 to 14 to 3 to 8 to 6 to 22 to 13 to 21 to 4 to 16 to 25 to 15 to 1
+Cost: 841.0120825149453
+Time: 148373168924
+i = 2540
+1 to 19 to 3 to 12 to 18 to 21 to 24 to 17 to 11 to 4 to 8 to 14 to 6 to 2 to 22 to 5 to 25 to 9 to 20 to 15 to 13 to 23 to 7 to 10 to 16 to 1
+Cost: 824.4845944433808
+Time: 90005494149
+i = 2550
+1 to 16 to 13 to 24 to 23 to 12 to 6 to 8 to 21 to 20 to 10 to 4 to 22 to 2 to 9 to 11 to 14 to 19 to 15 to 25 to 5 to 18 to 3 to 7 to 17 to 1
+Cost: 841.9620031040353
+Time: 52302314421
+i = 2560
+1 to 18 to 22 to 23 to 13 to 10 to 14 to 9 to 24 to 6 to 16 to 19 to 20 to 8 to 2 to 3 to 4 to 7 to 15 to 25 to 12 to 17 to 21 to 5 to 11 to 1
+Cost: 843.0355210294621
+Time: 3901237341
+i = 2570
+1 to 23 to 14 to 16 to 5 to 12 to 15 to 18 to 11 to 21 to 13 to 24 to 22 to 19 to 9 to 8 to 6 to 4 to 25 to 2 to 10 to 7 to 3 to 17 to 20 to 1
+Cost: 883.3337114713746
+Time: 55078232540
+i = 2580
+1 to 22 to 2 to 13 to 15 to 16 to 24 to 8 to 12 to 17 to 21 to 6 to 14 to 10 to 18 to 19 to 25 to 4 to 20 to 3 to 7 to 11 to 5 to 9 to 23 to 1
+Cost: 819.6459908159006
+Time: 77446160279
+i = 2590
+1 to 2 to 3 to 14 to 5 to 10 to 21 to 7 to 19 to 20 to 25 to 22 to 4 to 24 to 15 to 6 to 23 to 12 to 8 to 17 to 13 to 16 to 9 to 11 to 18 to 1
+Cost: 937.1759628337044
+Time: 76338766364
+i = 2600
+1 to 14 to 7 to 24 to 4 to 22 to 18 to 11 to 19 to 26 to 3 to 25 to 12 to 8 to 13 to 21 to 5 to 2 to 10 to 16 to 20 to 17 to 23 to 9 to 6 to 15 to 1
+Cost: 792.0606924110489
+Time: 180103274597
+i = 2610
+1 to 2 to 15 to 3 to 4 to 20 to 25 to 6 to 12 to 14 to 13 to 22 to 5 to 19 to 9 to 24 to 18 to 23 to 26 to 7 to 10 to 21 to 8 to 17 to 16 to 11 to 1
+Cost: 859.260839252162
+Time: 81074053591
+i = 2620
+1 to 16 to 17 to 18 to 25 to 22 to 9 to 4 to 10 to 14 to 20 to 24 to 2 to 6 to 23 to 19 to 15 to 26 to 12 to 7 to 21 to 8 to 3 to 11 to 13 to 5 to 1
+Cost: 811.9764844079084
+Time: 2618436903
+i = 2630
+1 to 14 to 18 to 24 to 5 to 12 to 7 to 25 to 13 to 10 to 3 to 2 to 16 to 11 to 21 to 6 to 8 to 26 to 19 to 17 to 20 to 23 to 22 to 4 to 9 to 15 to 1
+Cost: 883.71129010933
+Time: 112724724742
+i = 2640
+1 to 7 to 2 to 20 to 19 to 11 to 10 to 8 to 23 to 22 to 16 to 6 to 24 to 17 to 25 to 15 to 21 to 18 to 12 to 9 to 26 to 14 to 5 to 13 to 3 to 4 to 1
+Cost: 786.3500731033947
+Time: 97887692869
+i = 2650
+1 to 14 to 2 to 19 to 5 to 12 to 10 to 15 to 6 to 23 to 25 to 24 to 26 to 16 to 7 to 13 to 4 to 21 to 11 to 18 to 8 to 20 to 22 to 9 to 3 to 17 to 1
+Cost: 862.3026999457476
+Time: 2615706806
+i = 2660
+1 to 8 to 2 to 10 to 26 to 14 to 15 to 6 to 22 to 24 to 13 to 20 to 3 to 19 to 12 to 25 to 23 to 9 to 18 to 5 to 4 to 16 to 17 to 21 to 11 to 7 to 1
+Cost: 832.4576945372647
+Time: 103624301846
+i = 2670
+1 to 21 to 5 to 7 to 18 to 2 to 12 to 6 to 8 to 10 to 16 to 15 to 4 to 20 to 17 to 9 to 26 to 14 to 22 to 23 to 13 to 25 to 19 to 11 to 3 to 24 to 1
+Cost: 970.5690665858897
+Time: 301935001316
+i = 2680
+1 to 13 to 3 to 8 to 21 to 25 to 6 to 10 to 9 to 7 to 18 to 4 to 26 to 2 to 24 to 19 to 5 to 12 to 23 to 22 to 14 to 16 to 17 to 11 to 15 to 20 to 1
+Cost: 880.1217577259438
+Time: 96258635837
+i = 2690
+1 to 19 to 3 to 11 to 14 to 22 to 7 to 24 to 17 to 12 to 16 to 20 to 2 to 21 to 15 to 23 to 26 to 6 to 18 to 13 to 5 to 4 to 25 to 9 to 8 to 10 to 1
+Cost: 874.2108139483913
+Time: 1996576896
+i = 2700
+1 to 21 to 20 to 26 to 3 to 12 to 6 to 24 to 15 to 23 to 22 to 5 to 19 to 7 to 8 to 25 to 27 to 4 to 9 to 10 to 2 to 18 to 17 to 14 to 11 to 13 to 16 to 1
+Cost: 817.6611927510728
+Time: 218261988734
+i = 2710
+1 to 7 to 24 to 6 to 21 to 16 to 4 to 15 to 14 to 20 to 22 to 13 to 8 to 17 to 27 to 19 to 5 to 25 to 18 to 10 to 26 to 3 to 11 to 9 to 2 to 12 to 23 to 1
+Cost: 911.4532000189773
+Time: 4396640000675
+i = 2720
+1 to 2 to 5 to 19 to 23 to 9 to 25 to 24 to 13 to 6 to 21 to 26 to 7 to 4 to 12 to 22 to 14 to 27 to 20 to 15 to 17 to 10 to 16 to 18 to 11 to 3 to 8 to 1
+Cost: 942.1820116770335
+Time: 4756553639660
+i = 2730
+1 to 14 to 23 to 17 to 13 to 6 to 10 to 16 to 22 to 5 to 12 to 2 to 24 to 18 to 27 to 7 to 21 to 3 to 11 to 15 to 20 to 4 to 19 to 9 to 8 to 25 to 26 to 1
+Cost: 823.7337106007808
+Time: 90644959767
+i = 2740
+1 to 6 to 11 to 5 to 13 to 18 to 2 to 17 to 26 to 10 to 4 to 14 to 16 to 7 to 22 to 15 to 24 to 8 to 27 to 23 to 9 to 12 to 20 to 21 to 25 to 3 to 19 to 1
+Cost: 941.8297130563972
+Time: 59929549143
+i = 2750
+1 to 7 to 2 to 20 to 9 to 21 to 10 to 15 to 11 to 4 to 14 to 16 to 23 to 13 to 19 to 25 to 12 to 22 to 18 to 24 to 6 to 3 to 17 to 27 to 26 to 8 to 5 to 1
+Cost: 809.6586807412305
+Time: 103381119277
+i = 2760
+1 to 2 to 20 to 23 to 19 to 13 to 24 to 26 to 17 to 12 to 22 to 9 to 11 to 10 to 21 to 5 to 3 to 14 to 7 to 25 to 8 to 27 to 6 to 4 to 15 to 16 to 18 to 1
+Cost: 850.3631497326372
+Time: 1954010732
+i = 2770
+1 to 16 to 20 to 19 to 12 to 3 to 24 to 25 to 7 to 9 to 8 to 17 to 11 to 10 to 21 to 4 to 22 to 6 to 18 to 23 to 5 to 14 to 2 to 13 to 27 to 15 to 26 to 1
+Cost: 843.6216394247188
+Time: 13916504692
+i = 2780
+1 to 4 to 20 to 3 to 15 to 9 to 14 to 24 to 26 to 21 to 12 to 18 to 8 to 27 to 19 to 22 to 11 to 2 to 6 to 7 to 16 to 17 to 25 to 23 to 13 to 10 to 5 to 1
+Cost: 888.8666630098306
+Time: 12834654307
+i = 2790
+1 to 11 to 21 to 15 to 26 to 14 to 16 to 24 to 5 to 3 to 2 to 19 to 17 to 23 to 27 to 8 to 4 to 6 to 13 to 25 to 9 to 7 to 20 to 18 to 22 to 10 to 12 to 1
+Cost: 861.1091774899563
+Time: 2327033974
+i = 2800
+1 to 14 to 2 to 3 to 26 to 19 to 16 to 10 to 23 to 4 to 5 to 15 to 17 to 18 to 27 to 22 to 25 to 9 to 7 to 21 to 20 to 6 to 8 to 24 to 11 to 13 to 12 to 28 to 1
+Cost: 881.1164387038184
+Time: 36533686535
+i = 2810
+1 to 15 to 4 to 9 to 11 to 13 to 10 to 20 to 7 to 18 to 14 to 25 to 8 to 23 to 28 to 19 to 27 to 12 to 5 to 26 to 6 to 24 to 2 to 16 to 3 to 22 to 17 to 21 to 1
+Cost: 812.4392509616148
+Time: 272010528561
+i = 2820
+1 to 3 to 27 to 6 to 20 to 8 to 11 to 23 to 2 to 21 to 22 to 18 to 26 to 12 to 19 to 7 to 25 to 13 to 9 to 10 to 14 to 16 to 4 to 15 to 24 to 17 to 5 to 28 to 1
+Cost: 892.0865524798211
+Time: 189081666142
+i = 2830
+1 to 17 to 8 to 13 to 12 to 24 to 28 to 16 to 10 to 7 to 22 to 25 to 14 to 21 to 19 to 18 to 5 to 27 to 26 to 3 to 15 to 23 to 20 to 6 to 2 to 4 to 9 to 11 to 1
+Cost: 909.4533823305636
+Time: 27015298668
+i = 2840
+1 to 17 to 25 to 9 to 2 to 22 to 26 to 28 to 15 to 8 to 10 to 7 to 13 to 5 to 23 to 6 to 3 to 12 to 14 to 11 to 21 to 24 to 27 to 4 to 20 to 16 to 18 to 19 to 1
+Cost: 916.6302989024423
+Time: 6983673285
+i = 2850
+1 to 5 to 23 to 22 to 10 to 7 to 28 to 12 to 4 to 8 to 20 to 3 to 9 to 16 to 19 to 2 to 18 to 24 to 15 to 13 to 25 to 6 to 11 to 27 to 14 to 21 to 26 to 17 to 1
+Cost: 876.0436240381192
+Time: 148527819675
+i = 2860
+1 to 28 to 9 to 4 to 12 to 11 to 8 to 13 to 27 to 15 to 18 to 26 to 22 to 5 to 19 to 25 to 3 to 23 to 21 to 10 to 7 to 2 to 16 to 20 to 14 to 6 to 24 to 17 to 1
+Cost: 929.8909819277214
+Time: 393670809908
+i = 2870
+1 to 5 to 16 to 12 to 6 to 20 to 18 to 19 to 23 to 3 to 9 to 10 to 4 to 26 to 2 to 13 to 11 to 27 to 7 to 15 to 28 to 8 to 24 to 17 to 25 to 21 to 22 to 14 to 1
+Cost: 865.7923957380466
+Time: 68466160903
+i = 2880
+1 to 9 to 7 to 17 to 26 to 8 to 21 to 18 to 12 to 27 to 23 to 5 to 14 to 28 to 13 to 3 to 4 to 16 to 22 to 25 to 10 to 15 to 2 to 19 to 6 to 11 to 24 to 20 to 1
+Cost: 904.6861656524302
+Time: 1127571304705
+i = 2890
+1 to 26 to 17 to 11 to 21 to 28 to 22 to 2 to 6 to 16 to 23 to 19 to 18 to 13 to 9 to 5 to 12 to 10 to 4 to 3 to 8 to 15 to 24 to 25 to 20 to 27 to 7 to 14 to 1
+Cost: 921.4177759283224
+Time: 3953848444743
+i = 2900
+1 to 11 to 4 to 29 to 16 to 12 to 19 to 26 to 5 to 24 to 20 to 8 to 25 to 2 to 7 to 13 to 28 to 23 to 21 to 6 to 22 to 3 to 18 to 9 to 15 to 17 to 27 to 14 to 10 to 1
+Cost: 918.649772300116
+Time: 6838578426325
+i = 2910
+1 to 28 to 14 to 22 to 3 to 2 to 13 to 5 to 16 to 12 to 27 to 9 to 15 to 19 to 29 to 17 to 10 to 11 to 21 to 6 to 4 to 8 to 24 to 23 to 25 to 26 to 18 to 20 to 7 to 1
+Cost: 901.3980009265755
+Time: 39253392388
+i = 2920
+1 to 11 to 21 to 24 to 27 to 23 to 15 to 9 to 20 to 10 to 12 to 6 to 22 to 4 to 26 to 17 to 2 to 25 to 18 to 16 to 7 to 14 to 28 to 8 to 29 to 5 to 19 to 3 to 13 to 1
+Cost: 970.2791116075755
+Time: 872673887941
+i = 2930
+1 to 17 to 2 to 22 to 18 to 11 to 19 to 24 to 6 to 20 to 21 to 13 to 28 to 27 to 16 to 7 to 5 to 12 to 14 to 25 to 3 to 15 to 10 to 23 to 4 to 9 to 26 to 29 to 8 to 1
+Cost: 895.7894765034201
+Time: 15998266740
+i = 2940
+1 to 2 to 13 to 12 to 29 to 16 to 14 to 21 to 11 to 6 to 22 to 15 to 24 to 8 to 17 to 10 to 7 to 25 to 19 to 28 to 26 to 5 to 27 to 9 to 23 to 20 to 18 to 4 to 3 to 1
+Cost: 966.5201598010016
+Time: 1207844606200
+i = 2950
+1 to 23 to 16 to 20 to 19 to 25 to 12 to 17 to 14 to 15 to 18 to 27 to 3 to 9 to 24 to 13 to 5 to 26 to 2 to 6 to 29 to 11 to 10 to 7 to 8 to 4 to 22 to 21 to 28 to 1
+Cost: 969.4785786643382
+Time: 47012894141
+i = 2960
+1 to 25 to 2 to 22 to 27 to 28 to 10 to 21 to 6 to 26 to 19 to 7 to 18 to 8 to 20 to 14 to 16 to 12 to 13 to 24 to 17 to 23 to 15 to 5 to 3 to 11 to 9 to 29 to 4 to 1
+Cost: 950.9930911617992
+Time: 164990826830
+i = 2970
+1 to 21 to 10 to 11 to 2 to 15 to 26 to 27 to 12 to 19 to 29 to 6 to 18 to 5 to 22 to 16 to 24 to 7 to 25 to 3 to 8 to 9 to 28 to 23 to 20 to 14 to 17 to 13 to 4 to 1
+Cost: 926.0755626053591
+Time: 21840918213725
+i = 2980
+1 to 11 to 10 to 17 to 19 to 12 to 3 to 13 to 14 to 2 to 21 to 23 to 29 to 5 to 24 to 22 to 9 to 27 to 18 to 20 to 26 to 28 to 7 to 4 to 16 to 6 to 15 to 8 to 25 to 1
+Cost: 954.2936967158168
+Time: 3647087170660
+i = 2990
+1 to 27 to 19 to 21 to 9 to 5 to 10 to 28 to 26 to 12 to 11 to 24 to 25 to 4 to 17 to 2 to 29 to 7 to 23 to 18 to 6 to 15 to 20 to 3 to 14 to 13 to 16 to 8 to 22 to 1
+Cost: 807.1820450430328
+Time: 48928490526
+
